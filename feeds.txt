@@ -1,0 +1,6 @@
+https://antonz.org/index.xml
+http://blog.golang.org/feeds/posts/default
+https://fasterthanli.me/index.xml
+https://matklad.github.io//feed.xml
+https://simonwillison.net/atom/everything/
+https://defmacro.substack.com/feed/
