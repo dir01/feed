@@ -38,5 +38,4 @@ jobs:
     steps:
       - name: deploy-to-github-pages
         id: deployment
-        uses: actions/deploy-pages # add @ to specify a version
-
+        uses: actions/deploy-pages@v4
