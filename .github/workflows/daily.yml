@@ -2,8 +2,7 @@ name: update-demo-daily
 on:
   workflow_dispatch: # allows manual trigger from GitHub Actions UI
   schedule:
-    #- cron: "0 6 * * *" # every day at 6am
-    - cron: "45 * * * *" # every hour at xx:45
+    - cron: "0 4 * * *" # every day at 4am
   push:
     tags:
       - "refresh-github-page" # to manually trigger a refresh
