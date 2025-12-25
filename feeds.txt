@@ -5,3 +5,4 @@ https://matklad.github.io//feed.xml
 https://simonwillison.net/atom/everything/
 https://defmacro.substack.com/feed/
 https://xakep.ru/feed/
+https://tonsky.me/atom.xml
