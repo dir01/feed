@@ -3,7 +3,7 @@ http://blog.golang.org/feeds/posts/default
 https://fasterthanli.me/index.xml
 https://matklad.github.io//feed.xml
 https://simonwillison.net/atom/everything/
-https://defmacro.substack.com/feed/
-https://ruben.substack.com/feed
-https://ramikrispin.substack.com/feed
+https://defmacro.substack.com/feed.xml
+https://ruben.substack.com/feed.xml
+https://ramikrispin.substack.com/feed.xml
 https://tonsky.me/atom.xml
