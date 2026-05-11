@@ -5,4 +5,5 @@ https://matklad.github.io//feed.xml
 https://simonwillison.net/atom/everything/
 https://defmacro.substack.com/feed/
 https://ruben.substack.com/feed
+https://ramikrispin.substack.com/feed
 https://tonsky.me/atom.xml
