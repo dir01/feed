@@ -8,3 +8,4 @@ https://ramikrispin.substack.com/feed.xml
 https://tonsky.me/atom.xml
 https://registerspill.thorstenball.com/feed.xml
 https://blog.glyph.im/feeds/all.atom.xml
+http://hypercritical.co/feeds/main
